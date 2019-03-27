@@ -1,0 +1,26 @@
+<?xml version="1.0"?> <etudiants>   
+    <etudiant cne="393">    
+        <nom>nom1</nom>    
+        <nom>nom1</nom>    
+        <prenom>prenm1</prenom>    
+        <adresse>adresse 1</adresse>    
+        <code>85</code>   
+    </etudiant>   
+    <etudiant cne="493">    
+        <nom>nom2</nom>    
+        <prenom>prenom2</prenom>    
+        <adresse>adresse 2</adresse>    
+        <adresse>adresse 2</adresse>    
+        <adresse>adresse 2</adresse>    
+        <code>95</code>   
+    </etudiant>   
+    <etudiant cne="593">    
+        <nom>nom3</nom>    
+        <prenom>prenom3</prenom>   
+        <prenom>prenom3</prenom>   
+        <prenom>prenom3</prenom>   
+        <prenom>prenom3</prenom>    
+        <adresse>adresse 3</adresse>    
+        <code>90</code>   
+    </etudiant> 
+</etudiants>
